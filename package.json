@@ -141,7 +141,7 @@
     "@types/chroma-js": "^2.4.0",
     "@types/cookie": "0.5.1",
     "@types/hast": "2.3.4",
-    "@types/js-yaml": "4.0.5",
+    "@types/js-yaml": "4.0.9",
     "@types/mjml": "4.7.1",
     "@types/node": "18.15.11",
     "@types/prismjs": "1.26.0",
